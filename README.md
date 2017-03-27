@@ -1,1 +1,6 @@
-ทดสอบระบบ
+<h1>Hello Github Pages</h1>
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
